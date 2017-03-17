@@ -1,0 +1,4 @@
+img/
+output/
+*.sublime-*
+.DS_Store
